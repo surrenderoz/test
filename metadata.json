@@ -1,0 +1,7 @@
+{
+  "name": "AutoBots Token",
+  "symbol": "ATBS",
+  "description": "
+Example token from Solana Making a Token guide.",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+}
